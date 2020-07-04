@@ -1,8 +1,8 @@
-### | snippets10
+### | snippets10 
 ---
+index template include
 
-
-[RESULT]()
+[]()
 
 #### CDN
 [jquery.slim.min.js 3.3.1](https://code.jquery.com/jquery-3.3.1.slim.min.js)
